@@ -20,7 +20,7 @@ and then run `. your_file_name.sh` in terminal (do not close that terminal windo
 
 Go to the cloned project
 ```
-cd instafight
+cd instafightOficial
 npm install
 ```
 Go to the /frontend folder and run 
