@@ -1,7 +1,7 @@
 # Welcome to InstaFight
 
 This is the midterm exam for the Web Development class at Universidad de los Andes
-You will be able to compare the number of likes of two public Instagram accounts to see which user has more likes.
+You will be able to compare the number of likes of two public Instagram accounts to see which user has more likes. Plus! You can also see how many comments their posts have!
 
 
 ## If you want to run in just follow this simple steps:
