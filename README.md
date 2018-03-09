@@ -18,7 +18,11 @@ export  mlabDatabase=your_db_name
 
 and then run `. your_file_name.sh` in terminal (do not close that terminal window, follow the next steps in the same window)
 
-```npm install```
+Go to the cloned project
+```
+cd instafight
+npm install
+```
 Go to the /frontend folder and run 
 ```
 cd frontend
